@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "channel_id": "",
+    "status": "dnd",
+    "device_spoof": "phone",
+    "webhook_url": "",
+    "time": 0,
+    "embed_color": 0,
+    "check_last_used_command": 5000
+  }

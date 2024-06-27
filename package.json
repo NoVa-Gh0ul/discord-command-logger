@@ -1,0 +1,33 @@
+{
+  "name": "discord-command-logger",
+  "version": "1.0.0",
+  "description": "Discord SelfBot that logs commands from one server's channel into another of choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoVa-Gh0ul/discord-command-logger.git"
+  },
+  "keywords": [
+    "discordbot",
+    "discord-bot",
+    "discord-selfbot",
+    "discord-self-bot",
+    "javascript",
+    "nodejs",
+    "script"
+  ],
+  "author": "shwp",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/NoVa-Gh0ul/discord-command-logger/issues"
+  },
+  "homepage": "https://github.com/NoVa-Gh0ul/discord-command-logger#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "fs": "^0.0.1-security",
+    "ws": "^8.17.1"
+  }
+}
