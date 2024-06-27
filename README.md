@@ -38,5 +38,5 @@ Other optional values include:
 - **status**: `dnd` | `idle` | `invisible` | `online`
 - **device_spoof**: `pc` | `phone`
 - **time**: *do not edit this*
-- **embed_color**: `0` | `1`
+- **embed_color**: support hex string values for colors
 - **check_last_used_command**: `integer_value` (how long until it checks for the last used command in the set channel again)
